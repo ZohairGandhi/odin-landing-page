@@ -72,3 +72,35 @@ button {
     padding: 125px;
     background-color: gray;
 }
+
+#info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    text-align: center;
+}
+
+.card-image {
+    border: 5px solid #3882f6;
+    border-radius: 16px;
+    padding: 75px;
+    margin: 0;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 150px;
+}
+
+.card-text {
+    text-align: center;
+    margin: 0;
+}
+
+.cards {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
