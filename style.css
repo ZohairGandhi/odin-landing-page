@@ -97,6 +97,7 @@ button {
 .card-text {
     text-align: center;
     margin: 0;
+    color: gray;
 }
 
 .cards {
@@ -127,4 +128,39 @@ button {
     text-align: right;
     padding: 0;
     margin: 0;
+}
+
+.call-to-act {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px;
+}
+
+.call-banner {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px 200px;
+    background-color: #3882f6;
+    border-radius: 8px;
+}
+
+#call-main, #call-sec {
+    padding: 0;
+    margin: 0;
+}
+
+#call-main {
+    color: white;
+    font-size: 24px;
+}
+
+#call-sec {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+#call-btn {
+    border: 2px solid white;
 }
