@@ -164,3 +164,10 @@ button {
 #call-btn {
     border: 2px solid white;
 }
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 35px;
+}
