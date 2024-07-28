@@ -1,0 +1,3 @@
+# Landing Page
+
+This is a project created as part of the curriculum of the Odin Project. It is a recreation of a web page from a provided design. The basic structure of the website is laid out in `index.html` and the file `style.css` contains all the CSS styling for the web page. Flexbox was was one of the main components used to create the layout for the web page. The web page is currently not configured for smaller screens such as mobile devices.
